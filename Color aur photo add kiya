@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gagan ki Website</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #ff9933, #ffffff, #138808);
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            color: #000080;
+        }
+        h1 {
+            color: #FF4500;
+            font-size: 40px;
+        }
+        img {
+            width: 200px;
+            border-radius: 50%;
+            border: 5px solid #138808;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>जय हिंद! मैं Gagan हूं 🇮🇳</h1>
+    <img src="https://via.placeholder.com/200" alt="मेरी फोटो">
+    <p>ये मेरी पहली GitHub Pages वेबसाइट है</p>
+</body>
+  </html>
